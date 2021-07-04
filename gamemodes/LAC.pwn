@@ -74,6 +74,7 @@ LosAngelesCalifornia Roleplay v2.8.1 - Last Modified 24/04/2019. By Blaster
 #include <easyDialog>
 #include <LAC/InteractiveArea>
 
+#define GPS_MODE_ALL
 #include <LAC/LAC-GPS>
 
 #pragma unused strtok

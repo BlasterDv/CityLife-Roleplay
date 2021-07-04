@@ -1,0 +1,16 @@
+*.app
+*.bat
+*.exe
+*.amx
+*.ini
+*.txt
+*.dll
+*.ban
+*.ico
+
+*.dot
+*.lnk
+
+gamemodes/*.html
+
+.vscode/

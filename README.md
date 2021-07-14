@@ -20,6 +20,8 @@ https://github.com/katursis/Pawn.RakNet/releases/tag/1.4.1
 
 https://github.com/samp-incognito/samp-streamer-plugin/releases/tag/v2.9.4
 
+https://github.com/Sreyas-Sreelal/samp-bcrypt/releases/tag/0.2.3
+
 https://github.com/IllidanS4/YSF/releases/tag/v2.1
 
 https://github.com/pBlueG/SA-MP-MySQL/releases/tag/R41-4
@@ -35,10 +37,10 @@ https://github.com/Zeex/samp-plugin-profiler/releases/tag/v2.15.3 [Opcional lo p
 https://github.com/Zeex/samp-plugin-crashdetect/releases/tag/v4.20 [Opcional lo pueden remover de server.cfg]
 
 ¿Cómo funciona la GM?
-Core/funcs_notification.pwn - Se encarga principalmente de todo lo relacionado a la creación de notificaciones.
 
-Core/inventory.pwn - Contiene la lógica de los paneles: Inventario, GPS, Banda y TextDraw de intercambio.
-Core/funcs/areas.pwn - Contiene creación y lógica de algunas partes del sistema de areas interactivas.
-Core/funcs/timers.pwn - Contiene temporizadores de diferentes sistemas.
+Core/funcs_notification.pwn - Se encarga principalmente de todo lo relacionado a la creación de notificaciones.<br />
+Core/inventory.pwn - Contiene la lógica de los paneles: Inventario, GPS, Banda y TextDraw de intercambio.<br />
+Core/funcs/areas.pwn - Contiene creación y lógica de algunas partes del sistema de areas interactivas.<br />
+Core/funcs/timers.pwn - Contiene temporizadores de diferentes sistemas.<br />
 
 
